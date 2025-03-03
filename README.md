@@ -15,10 +15,4 @@ This project uses Natural Language Processing (NLP) and Machine Learning techniq
 - NLTK/Spacy for NLP
 - Matplotlib/Seaborn for data visualization
 
-## Getting Started
 
-### Prerequisites
-Make sure you have Python 3.x installed on your machine. Then, install the required dependencies using:
-
-```bash
-pip install -r requirements.txt
